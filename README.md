@@ -230,7 +230,3 @@ npx allure open
 ## Author
 
 Anubhuti Kaur Sethi
-
-Senior SDET | Lead Quality Engineer
-
-Passionate about building scalable automation frameworks using modern testing practices.
