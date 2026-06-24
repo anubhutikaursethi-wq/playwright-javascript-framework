@@ -8,7 +8,7 @@ test.use({
     storageState: '.auth/user.json'
 });
 
-test.only('Verify created event in UI', async ({ page, eventAPI }) => {
+test('Verify created event in UI', async ({ page, eventAPI }) => {
 
     //event payload
     const eventPayload = createEventPayload();
